@@ -1,0 +1,42 @@
+<!DOCTYPE>
+<html>
+
+<head>
+<!--External Linking Of CSS File-->
+<link rel="stylesheet" type="text/css" href="style.css">
+
+
+
+<title>This is Title of document</title>
+<meta name =" keywords " contetnt ="HTML ,Meta Tags ,Metadata"/>
+<meta name =" description " contetnt ="learninig about meta tags"/>
+<meta name =" revise" contetnt ="tutorialspoint,2/7/2022"/>
+<meta http-equiv="refresh" contetnt ="2"/>
+</head>
+
+<body>
+<div style="float:left;  border:3px solid black; background-color:gray; width:40%" >
+<p id="part1" >This is section of learning.This is section of learning.This is section of learning.This is section of learning.
+This is section of learning.This is section of learning.This is section of learning.This is section of learning.</p>
+</div>
+
+<div style="float:right; border:3px solid black; background-color:blue; width:40%">
+<p id="part2" >
+This is section of learning.This is section of learning.This is section of learning.This is section of learning.
+This is section of learning.This is section of learning.This is section of learning.This is section of learning.
+
+</p>
+
+</div>
+
+<div style="margin-top:20%; margin-left:20%; text-align:center; border:3px solid black; background-color:gray; width:40%">
+<p id="part3" >
+This is section of learning.This is section of learning.This is section of learning.This is section of learning.
+This is section of learning.This is section of learning.This is section of learning.This is section of learning.
+
+</p>
+
+</div>
+
+</body>
+</html>
